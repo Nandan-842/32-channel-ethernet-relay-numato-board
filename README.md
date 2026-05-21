@@ -49,6 +49,4 @@ The project uses LabVIEW 2018 and NI VISA for communication between the PC and t
 |---|---|
 | `RESETnumato board coomunication.vi` | Serial communication VI used to disable authentication and reboot board |
 | `com1.vi` | Ethernet VISA communication VI used for relay read/write operations |
-| `Screen Recording 2026-05-21 115034.mp4` | Serial communication demonstration video |
-| `Screen Recording 2026-05-21 120655.mp4` | Ethernet VISA communication demonstration video |
 | `README.md` | Project documentation |
